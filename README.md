@@ -1,6 +1,6 @@
 # LP Music
 
-LP Music, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek için geliştirilen bir Android müzik uygulamasıdır. Yerel müzik arşivi, internet radyoları, favoriler, son dinlenenler, çalan bilgi geçmişi ve Keşfet paylaşımları aynı uygulama içinde birleşir.
+LP Music, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek için geliştirilen reklamsız bir Android müzik uygulamasıdır. Yerel müzik arşivi, internet radyoları, favoriler, son dinlenenler, radyo'da çalan bilgi geçmişi ve Keşfet paylaşımları aynı uygulama içinde birleşir.
 
 ## Özellikler
 
@@ -25,7 +25,7 @@ LP Music, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek için g
 
 Son APK dosyasını GitHub Releases bölümünden indirebilirsin:
 
-[LP Music Releases](https://github.com/ipstation-org/lpmusic/releases)
+[LP Music Releases](https://github.com/lpconsole/lp-music/releases)
 
 APK’yı indirdikten sonra Android cihazında kurulum izni vermen gerekebilir.
 
