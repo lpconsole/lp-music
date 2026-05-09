@@ -14,6 +14,7 @@ LP Music social, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek 
 - Keşfet bölümünde topluluk paylaşımları
 - E-posta veya Google ile giriş
 - Uygulama içinden güncelleme kontrolü ve APK indirme
+- Uygulama dili sadece türkçe, çoklu dil desteği bilerek eklenmemiştir
 
 ## Android Paket Bilgisi
 
