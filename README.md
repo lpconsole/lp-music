@@ -1,6 +1,6 @@
 # LP Music
 
-LP Music social, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek için geliştirilen reklamsız bir Android müzik uygulamasıdır. Yerel müzik arşivi, internet radyoları, favoriler, son dinlenenler, radyo'da çalan bilgi geçmişi ve Keşfet paylaşımları aynı uygulama içinde birleşir dinlediğin parçayı paylaşarak dostlarınla beraber takip et.
+LP Music social, android müzik uygulaması, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek için geliştirilen reklamsız bir Android uygulamasıdır. Yerel müzik arşivi, internet radyoları, favoriler, son dinlenenler, radyo'da çalan bilgi geçmişi ve Keşfet paylaşımları aynı uygulama içinde birleşir dinlediğin parçayı paylaşarak dostlarınla beraber takip et.
 
 ## Özellikler
 
@@ -10,6 +10,8 @@ LP Music social, telefondaki müzikleri ve canlı radyoları tek yerde dinlemek 
 - Son dinlenenler
 - Radyo çalan bilgi geçmişi
 - Tam ekran player ve mini player
+- Radyo'da şuan çalan bilgisini seçtiğiniz radyo ile (Artist - Parça ismi) şeklinde oluşturma
+- ilgili radyoda istediğiniz parça çaldığında siz uygulamada olmasanız bile size bir bildirim gönderilecek
 - Tema ve görünüm ayarları
 - Keşfet bölümünde topluluk paylaşımları
 - E-posta veya Google ile giriş
