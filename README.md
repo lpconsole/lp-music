@@ -35,12 +35,6 @@ APK’yı indirdikten sonra Android cihazında kurulum izni vermen gerekebilir.
 
 LP Music, müzikleri dinlemek ve listelemek için cihazdaki ses dosyalarına erişim izni isteyebilir. Giriş ve Keşfet paylaşımları için Supabase altyapısı kullanılır.
 
-Tüm hakları saklıdır.
-
-## Durum
-
-Bu proje aktif olarak geliştirilmektedir.
-
 # Görüntüler - 1
 
 <img width="240" height="620" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />  
@@ -52,3 +46,8 @@ Bu proje aktif olarak geliştirilmektedir.
 <img width="240" height="620" alt="4" src="https://github.com/user-attachments/assets/ee0940ea-c065-4a50-bffc-6ca4640d4ad7" /> 
 <img width="240" height="620" alt="5" src="https://github.com/user-attachments/assets/b70b9e68-a357-4719-8a2a-0b05cfdda11d" />  
 <img width="240" height="620" alt="6" src="https://github.com/user-attachments/assets/90f2bf46-1205-4b80-b612-99007a96b092" />
+
+## Durum
+
+Tüm hakları saklıdır.
+Bu proje aktif olarak geliştirilmektedir.
