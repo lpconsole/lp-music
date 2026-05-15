@@ -43,9 +43,9 @@ Bu proje aktif olarak geliştirilmektedir.
 
 # Görüntüler - 1
 
-<img width="320" height="780" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />  
-<img width="320" height="780" alt="2" src="https://github.com/user-attachments/assets/f1ba2b1a-5ea3-40f1-8ca7-6dc4a08460b2" />  
-<img width="320" height="780" alt="3" src="https://github.com/user-attachments/assets/275d5ce1-7fb2-4952-9444-275e6574bd23" />
+<img width="280" height="740" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />  
+<img width="280" height="740" alt="2" src="https://github.com/user-attachments/assets/f1ba2b1a-5ea3-40f1-8ca7-6dc4a08460b2" />  
+<img width="280" height="740" alt="3" src="https://github.com/user-attachments/assets/275d5ce1-7fb2-4952-9444-275e6574bd23" />
 
 # Görüntüler - 2
 
