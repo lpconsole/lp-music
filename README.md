@@ -43,12 +43,12 @@ Bu proje aktif olarak geliştirilmektedir.
 
 # Görüntüler - 1
 
-<img width="240" height="700" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />  
-<img width="240" height="700" alt="2" src="https://github.com/user-attachments/assets/f1ba2b1a-5ea3-40f1-8ca7-6dc4a08460b2" />  
-<img width="240" height="700" alt="3" src="https://github.com/user-attachments/assets/275d5ce1-7fb2-4952-9444-275e6574bd23" />
+<img width="240" height="660" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />  
+<img width="240" height="660" alt="2" src="https://github.com/user-attachments/assets/f1ba2b1a-5ea3-40f1-8ca7-6dc4a08460b2" />  
+<img width="240" height="660" alt="3" src="https://github.com/user-attachments/assets/275d5ce1-7fb2-4952-9444-275e6574bd23" />
 
 # Görüntüler - 2
 
-<img width="240" height="700" alt="4" src="https://github.com/user-attachments/assets/ee0940ea-c065-4a50-bffc-6ca4640d4ad7" /> 
-<img width="240" height="700" alt="5" src="https://github.com/user-attachments/assets/b70b9e68-a357-4719-8a2a-0b05cfdda11d" />  
-<img width="240" height="700" alt="6" src="https://github.com/user-attachments/assets/90f2bf46-1205-4b80-b612-99007a96b092" />
+<img width="240" height="660" alt="4" src="https://github.com/user-attachments/assets/ee0940ea-c065-4a50-bffc-6ca4640d4ad7" /> 
+<img width="240" height="660" alt="5" src="https://github.com/user-attachments/assets/b70b9e68-a357-4719-8a2a-0b05cfdda11d" />  
+<img width="240" height="660" alt="6" src="https://github.com/user-attachments/assets/90f2bf46-1205-4b80-b612-99007a96b092" />
