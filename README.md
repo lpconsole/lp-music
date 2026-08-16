@@ -20,7 +20,7 @@ LP Music social, android müzik uygulaması, telefondaki müzikleri ve canlı ra
 
 ## Android Paket Bilgisi
 
-- Paket adı: `com.lpdev.music`
+- Paket adı: `com.lpconsole.music.android`
 - Minimum Android: Android 7.0+
 
 ## Kurulum
