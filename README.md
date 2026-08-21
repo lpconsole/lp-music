@@ -13,10 +13,9 @@ LP Music social, android müzik uygulaması, telefondaki müzikleri ve canlı ra
 - Radyo'da şuan çalan bilgisini seçtiğiniz radyo ile (Artist - Parça ismi) şeklinde oluşturma
 - ilgili radyoda istediğiniz parça çaldığında siz uygulamada olmasanız bile size bir bildirim gönderilecek
 - Tema ve görünüm ayarları
-- Keşfet bölümünde topluluk paylaşımları
-- E-posta veya Google ile giriş
 - Uygulama içinden güncelleme kontrolü ve APK indirme
 - Uygulama dili sadece türkçe, çoklu dil desteği bilerek eklenmemiştir
+- Canlı sekmesi eklenmiştir BT / Nearby özelliği ile yakın arkadaşlarınızla stereo müzik keyfi
 
 ## Android Paket Bilgisi
 
