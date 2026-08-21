@@ -4,11 +4,12 @@ LP Music social, android müzik uygulaması, telefondaki müzikleri ve canlı ra
 
 ## Özellikler
 
-- Telefonda bulunan müzikleri tarama ve dinleme
+- Cihazda bulunan müzikleri tarama ve dinleme
 - İnternet radyolarını listeleme ve çalma
 - Favori müzikler ve favori radyolar
+- Radyo & Müzik filtreleme desteği
 - Son dinlenenler
-- Radyo çalan bilgi geçmişi
+- Radyo çalan bilgi geçmişi / Son çalan müzikler
 - Tam ekran player ve mini player
 - Radyo'da şuan çalan bilgisini seçtiğiniz radyo ile (Artist - Parça ismi) şeklinde oluşturma
 - ilgili radyoda istediğiniz parça çaldığında siz uygulamada olmasanız bile size bir bildirim gönderilecek
