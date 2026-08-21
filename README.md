@@ -29,7 +29,7 @@
 ### 🎨 **Modern & Kişiselleştirilebilir Arayüz**
 - **Edge-to-Edge:** Tam ekran deneyimi.
 - **Dinamik Renkler:** Çalan parçanın kapak görseline göre renk değiştiren arka planlar.
-- **Live Bar:** Bildirim panelinde ve durum çubuğunda kayan "şimdi çalıyor" yazısı.
+- **Live Bar:** Bildirim panelinde ve durum çubuğunda kayan "çalan parçanın bilgileri" yazısı.
 
 ---
 
