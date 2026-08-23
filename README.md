@@ -1,4 +1,4 @@
-# 🎵 LP Music - Yerel Müzik, Radyo & Sosyal Deneyim
+# 🎵 LP Music - Yerel Müzik, Radyo & Global Radyo Çağı
 
 [![Version](https://img.shields.io/badge/Version-1.3.0-blue.svg)](https://github.com/lpconsole/lp-music/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
