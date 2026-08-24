@@ -13,7 +13,7 @@
 ### 📡 **Radar Sistemi (Özel Takip)**
 İstediğiniz bir şarkıyı veya sanatçıyı "Radar"a ekleyin. Seçtiğiniz radyoda o parça çalmaya başladığı anda uygulama kapalı olsa bile anında bildirim alın ve yayına tek dokunuşla bağlanın.
 
-### 📶 **"Canlı" (BTLive) Parti Modu**
+### 📶 **"Canlı" (Nearby Live) Yayın Modu**
 İnternet gerekmeden, Bluetooth ve Nearby (Yakındakiler) teknolojisi sayesinde arkadaşlarınızla stereo senkronize müzik keyfi yaşayın. Müziği tek bir cihazdan yönetin, tüm bağlı cihazlarda aynı anda çalsın.
 
 ### 📻 **Gelişmiş Radyo Deneyimi**
