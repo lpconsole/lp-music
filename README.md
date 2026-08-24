@@ -31,25 +31,6 @@
 - **Dinamik Renkler:** Çalan parçanın kapak görseline göre renk değiştiren arka planlar.
 - **Live Bar:** Bildirim panelinde ve durum çubuğunda kayan "çalan parçanın bilgileri" yazısı.
 
----
-
-## 📸 Uygulama Görüntüleri
-
-### Ana Ekran & Player
-<p align="center">
-  <img width="280" alt="1" src="https://github.com/user-attachments/assets/e2357172-280b-4d3e-97fc-02601b85336f" />
-  <img width="280" alt="2" src="https://github.com/user-attachments/assets/f1ba2b1a-5ea3-40f1-8ca7-6dc4a08460b2" />
-</p>
-
-### Kütüphane & Özellikler
-<p align="center">
-  <img width="250" alt="4" src="https://github.com/user-attachments/assets/ee0940ea-c065-4a50-bffc-6ca4640d4ad7" />
-  <img width="250" alt="5" src="https://github.com/user-attachments/assets/b70b9e68-a357-4719-8a2a-0b05cfdda11d" />
-  <img width="250" alt="6" src="https://github.com/user-attachments/assets/90f2bf46-1205-4b80-b612-99007a96b092" />
-</p>
-
----
-
 ## 🛠️ Teknik Detaylar
 
 - **Dil:** %100 Kotlin
