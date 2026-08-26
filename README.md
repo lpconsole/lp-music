@@ -64,4 +64,4 @@ En güncel APK dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
 LP Music aktif olarak geliştirilmeye devam etmektedir. Geri bildirimleriniz bizim için değerlidir.
 
 **Tüm hakları saklıdır.**  
-© 2026 LP Dev Team
+© 2026 LPConsole Team
