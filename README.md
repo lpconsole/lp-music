@@ -1,4 +1,4 @@
-# 🎵 LP Music - Müzik / Radyo + Global Radyo Çağı
+# 🎵 LP Music - Global Radyo Çağı
 
 [![Version](https://img.shields.io/badge/Version-1.5.0-blue.svg)](https://github.com/lpconsole/lp-music/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
