@@ -1,15 +1,9 @@
 # 🎵 LP Music - Global Radyo Çağı
 
 <p align="center">
-  <a href="https://github.com/lpconsole/lp-music/releases">
-    <img src="https://shields.io" alt="Version">
-  </a>
-  <a href="https://developer.android.com">
-    <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License">
-  </a>
+  <a href="https://github.com/lpconsole/lp-music/releases"><img src="https://img.shields.io/badge/Version-1.7.5-blue.svg" alt="Version"></a>
+    <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform"></a>
+    <a href="#"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" alt="License"></a>
 </p>
 
 **LP Music**, modern Android teknolojileriyle (Jetpack Compose) geliştirilmiş, yerel müzik arşivi ile dünya çapındaki internet radyolarını tek bir şık arayüzde birleştiren, reklamsız ve sosyal odaklı bir müzik çalar uygulamasıdır.
