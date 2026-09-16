@@ -45,7 +45,7 @@
 
 En güncel kararlı APK dosyasını güvenle indirmek için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-👉 [**LP Music Son Sürüm APK İndir (GitHub Releases)**](https://github.com/lpconsole/lp-music)
+👉 [**LP Music Son Sürüm APK İndir (GitHub Releases)**](https://github.com/lpconsole/lp-music/release)
 
 ---
 
