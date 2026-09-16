@@ -43,7 +43,7 @@ Uygulama içerisindeki "Keşfet" modülü üzerinden canlı yayın odalarında v
 - **Mimari:** MVVM (Model-View-ViewModel)
 - **Veritabanı:** Room Persistence Library
 - **Medya Motoru:** Android Media3 (ExoPlayer)
-- **Ağ/Backend:** Supabase (Profil & Keşfet & Mesajlaşma), Firebase, Radio Browser API
+- **Ağ/Backend:** (Profil & Keşfet & Mesajlaşma), Firebase, Radio Browser API
 - **Minimum SDK:** Android 7.0+ (API 24)
 
 ---
