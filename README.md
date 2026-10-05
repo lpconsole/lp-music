@@ -12,6 +12,13 @@
 
 ## ✨ Öne Çıkan Özellikler
 
+### ☁️ Google Drive Bulut Müzik
+- **Kişisel Bulut Arşivi:** Google Drive hesabınızdaki ve masaüstünden eşitlenen (`Bilgisayarlar`) tüm müziklerinize anında erişim ve canlı yayınlama (streaming).
+- **0ms Anında Erişim (Akıllı Disk Önbelleği):** Çekilen müzikler diske güvenle önbelleklenir. Sekmeler arası geçişlerde bekleme yapmaz, internet veri kullanımını ve pil tüketimini minimize eder.
+- **Arka Plan Akıllı Sayfalama:** Binlerce bulut şarkısını arka planda kesintisiz yükleme teknolojisi.
+- **Gelişmiş Filtreleme ve Sıralama:** Müziklerinizi İsme, Sanatçıya, Yükleme Tarihine *(Varsayılan)* ve Dosya Boyutuna göre milisaniyesinde sıralama.
+- **Gömülü ID3 Albüm Kapakları:** MP3 dosyalarının kendi içerisindeki orijinal albüm kapaklarını otomatik ayıklama ve görüntüleme.
+
 ### 📻 Gelişmiş Radyo Deneyimi
 - **Global İstasyonlar:** Dünya genelinde yayın yapan binlerce radyo istasyonuna anında erişim.
 - **Şu An Çalan Bilgisi:** Radyoda çalan şarkının adını ve kapak görselini (Poster) otomatik bulma teknolojisi.
